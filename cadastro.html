@@ -1,0 +1,20 @@
+<div id="after_submit"></div>
+<form name="formcadastro" action="salvar.php" method="POST">
+
+  <div class="row">
+    <label class="required" for="message">Descrição:</label><br />
+    <textarea id="descricao" class="input" name="descricao" rows="7" cols="30"></textarea><br />
+    <span id="message_validation" class="error_message"></span>
+  </div>
+
+  <div class="row">
+        <label class="required" for="message">Conteudo:</label><br />
+        <textarea id="conteudo" class="input" name="conteudo" rows="7" cols="30"></textarea><br />
+        <span id="message_validation" class="error_message"></span>
+      </div>
+    
+  <input type="date" for="data" name="data" id="data">
+
+    <input id="submit_button" type="submit" value="Enviar" />
+  
+</form>

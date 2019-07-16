@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(87, 113, 201);
+}
+
+.principal {
+    padding-top: 10%;
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+    justify-content: center;
+    justify-self: center;
+}
+
+.cadastro {
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+    justify-content: center;
+    justify-self: center;
+}
+
+.login {
+    
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+    justify-content: center;
+    justify-self: center;
+   
+}
+

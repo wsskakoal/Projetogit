@@ -1,0 +1,38 @@
+table, th, td {
+    border: 1px solid black;
+    width: 80%;
+  }
+
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 80%;
+  }
+
+
+  th, td {
+    padding: 15px;
+    width: 80%;
+  }
+
+
+  th {
+    text-align: left;
+    width: 80%;
+  }
+
+
+  table {
+    border-spacing: 5px;
+    width: 80%;
+  }
+
+
+  th {
+    text-align: left;
+    width: 80%;
+  }
+
+body{
+  width: 80%;
+}

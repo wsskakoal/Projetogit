@@ -1,0 +1,15 @@
+ftp.kinyx.com.br
+
+wyllian@kinyx.app
+
+12345
+
+
+https://alunos.kinyx.app/wyllian/
+
+
+SERVER    kinyx.com.br
+
+LOGIN     kinyxapp_app
+
+SENHA     12345
